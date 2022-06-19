@@ -1,0 +1,18 @@
+.section-carousel{
+    max-width: 1440px;
+    margin: 0 auto;
+    min-width: 950px;
+}
+.carousel-control-next, .carousel-control-prev{
+    width: 5%;
+}
+.section-card{
+    margin-top: 40px;
+}
+.email-news{
+    margin-top: 50px;
+}
+.footer-menu{
+    margin-top: 50px;
+    padding-top: 20px;
+}
